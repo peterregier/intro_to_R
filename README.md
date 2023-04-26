@@ -8,3 +8,5 @@ Prior to working with these codes, you'll need to do 4 things:
 2. Install RStudio - see https://rstudio-education.github.io/hopr/starting.html
 3. Create a Github account - https://github.com/join
 4. Install Github Desktop - (unless you're a pro and refer terminal. I'm not, and use Desktop) - https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+
+All scripts are ordered, and located in the /scripts folder
